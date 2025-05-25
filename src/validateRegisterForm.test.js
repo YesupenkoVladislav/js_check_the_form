@@ -132,3 +132,4 @@ describe(`Function 'validateRegisterForm':`, () => {
     expect(result.message).toBe('Email and password are valid.');
   });
 });
+// 1
